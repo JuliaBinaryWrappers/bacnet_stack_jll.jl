@@ -1,6 +1,6 @@
 name = "bacnet_stack_jll"
 uuid = "45b21b7f-0fc3-514f-951b-76478cbee2c7"
-version = "1.4.1+0"
+version = "1.4.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,128 +1,144 @@
 [[bacnet_stack]]
 arch = "aarch64"
-git-tree-sha1 = "2347d93226e458e9507f6e14c045322f7a20fcda"
-libc = "glibc"
-os = "linux"
+git-tree-sha1 = "90b13bed72c56bd5253a76f9dfec598f27b838f8"
+os = "macos"
 
     [[bacnet_stack.download]]
-    sha256 = "f285fab5ef6f9c8a80bff301879a22a5dea3489806d7b48ae24c850c2181ccc6"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7abc0d1b6aaa0389370889bd434dcf38c05c4d2b5aa1cf617e59d2fc908d9fb0"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.aarch64-apple-darwin.tar.gz"
 [[bacnet_stack]]
 arch = "aarch64"
-git-tree-sha1 = "99ab2c562fd1db5cadac97968de8d724369aa6ff"
+git-tree-sha1 = "d7c570ffaa3aa33a727e9328d7511c8988bab665"
+libc = "glibc"
+os = "linux"
+
+    [[bacnet_stack.download]]
+    sha256 = "fcd55995dfea7586c99fa4fa804fd820d6187353565fad8ec4e198363411bd9a"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.aarch64-linux-gnu.tar.gz"
+[[bacnet_stack]]
+arch = "aarch64"
+git-tree-sha1 = "cb98b27a9f41033d3944af754963822c376aa1de"
 libc = "musl"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "9b35c71d9519fec70fcc2721edea5bdde2c4133cf5ba73c72c9920434320789c"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.aarch64-linux-musl.tar.gz"
+    sha256 = "6790c5a2eb8fe650d0aff0c5d3fd7c691224eaea8db14fb5130d45dae0360e67"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.aarch64-linux-musl.tar.gz"
 [[bacnet_stack]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "3ba6c7e35ecc21400293a8447402920dcd3e8c07"
+git-tree-sha1 = "9f5be90a30fe3737c7dfcb7be5f0f2840ff1e0c7"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "9bc36acefe10d6c6dca16eb63925e9773b14c397e5aea00f7af33a41d8b4062c"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "db60996ae6a3b50de982288a3180ee1aab5a1e0460d8133de475a1a1196381da"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.armv6l-linux-gnueabihf.tar.gz"
 [[bacnet_stack]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "62949625d6e5218e97ec52ec0a2a816de1fb12ad"
+git-tree-sha1 = "928f8ea185106453c38055bfe6f260e4a0d042df"
 libc = "musl"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "f4aa4089fa1f60bb80ea5057733388cdec1ad156ec6a86f960eee3ca44533575"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "8d3c96ca05c21be9efa51c1eabfeea6b8a8fc99d8b6de711b89c7e091a4025f2"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.armv6l-linux-musleabihf.tar.gz"
 [[bacnet_stack]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "083299ed79b590447f58c99adea637b1c9c80fcc"
+git-tree-sha1 = "51c6713edf5b2c9c60bfa0d8a4b15488bb2371cd"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "53994f41960beb0cd06f054332621e958900a9754cf29207b804d618984eb351"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "13df0e58b2f455fb5e1d043e55a5b722580e0fde192a348aedc885c697e13f51"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
 [[bacnet_stack]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b9730c38ef679931a32ad6c43965cb953d0ffa6d"
+git-tree-sha1 = "b298e79cf84a13214e4b3866832add031c602c5f"
 libc = "musl"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "a3ea9f98fc843f6e005fda702548bb918ff835187a97e079a2aa5e0e461339b4"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "74d54666d8be6cbc1564cac54516d42a8d7706ce0160ede8abddd7e6c171fbb5"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.armv7l-linux-musleabihf.tar.gz"
 [[bacnet_stack]]
 arch = "i686"
-git-tree-sha1 = "575f1e924c4bd40a7090e38417a8f5fb2f304159"
+git-tree-sha1 = "f6fa20813780a77384d57cad99c2ac9280e262bb"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "9ede57ef96befc443a6689f6723900c3cb09669a4d24f262d34dc845a4c5ee2b"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.i686-linux-gnu.tar.gz"
+    sha256 = "7d654454b281f0d8c3442c345879081f628ca9af5e9db0a7362fc2cae59c043b"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.i686-linux-gnu.tar.gz"
 [[bacnet_stack]]
 arch = "i686"
-git-tree-sha1 = "f1ea9760151e6fec88308a19ce1f5293b263f90d"
+git-tree-sha1 = "030fc507c10fd2d0ed5a9597024d9ebdd2a350e8"
 libc = "musl"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "beaeca096145cd1d440b8c082425a2c773b9704214488430c25496f8822bbe3b"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.i686-linux-musl.tar.gz"
+    sha256 = "53696ac4d5607b4011bb4e7de3424f29a1153fcf1c01e00894cb0a5c09d5857d"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.i686-linux-musl.tar.gz"
 [[bacnet_stack]]
 arch = "i686"
-git-tree-sha1 = "0c53b40f342ad449989451d37b2928f1c7ab3213"
+git-tree-sha1 = "484f7e6027567a486d411d0dade1c368f745e40c"
 os = "windows"
 
     [[bacnet_stack.download]]
-    sha256 = "fdb6c05ab5bb5256eca38bb062a4e3d241e0f336bd02eca53dbe68b950475cd3"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.i686-w64-mingw32.tar.gz"
+    sha256 = "a0a659b50a91f8e8dd3bbb5869196b4c71c1d8e313750014f732dfb0d6ad6322"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.i686-w64-mingw32.tar.gz"
 [[bacnet_stack]]
 arch = "powerpc64le"
-git-tree-sha1 = "18dd10dd77edfa7b5bdf335029ee230283a42b2f"
+git-tree-sha1 = "16937f8c7c145a6ed33ff52206e140e827a81299"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "19f93b5b7c99f3d83c7f261f72256f0442b736e385f2ad3aa4be351bb50fdfc2"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "5dd45f3c74bc24a2bf4fe78f96e1a640797834d1b8d9f2dcd42dd10ca4d32634"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.powerpc64le-linux-gnu.tar.gz"
 [[bacnet_stack]]
 arch = "riscv64"
-git-tree-sha1 = "516781d842efe493cacfecdf8acd5540b85ddb53"
+git-tree-sha1 = "1cbe0ebc9e5936742089d277f54f9bdde2496abd"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "e714a5066e3cbb727098fe86f6e223b50043b7615665234ac89c0d620e4d814c"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "3b3ca2b6e57c188cfb4de4d0e9ead786156f77fb334d099470d81e18995ea5c3"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.riscv64-linux-gnu.tar.gz"
 [[bacnet_stack]]
 arch = "x86_64"
-git-tree-sha1 = "d815cad568f6a57b266dd8411431d223dd5f8c3f"
+git-tree-sha1 = "5231bf0f747ec38a37c1e82ccc1579ac0bc49e3e"
+os = "macos"
+
+    [[bacnet_stack.download]]
+    sha256 = "db1ddaf0406895cdb7f360a187574e8fb2f240c478b165324e6ef4492e76ce7a"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.x86_64-apple-darwin.tar.gz"
+[[bacnet_stack]]
+arch = "x86_64"
+git-tree-sha1 = "fd4b452f5ca0f762b4032812331fe43af843e9db"
 libc = "glibc"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "c8efcca9888ed4738fb6a3efff2da0bdadd8a763fd5b999af071e892ce92b092"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "ea73c700c4a09b009a09822d8db7a93aad2ff73f76afdd2ed532785182caa4aa"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.x86_64-linux-gnu.tar.gz"
 [[bacnet_stack]]
 arch = "x86_64"
-git-tree-sha1 = "135db465fa5f80fffc16d6424aabd3d5e17e4192"
+git-tree-sha1 = "9811f8e00a60b79dc96061d59426b07853b85e4d"
 libc = "musl"
 os = "linux"
 
     [[bacnet_stack.download]]
-    sha256 = "11b2cd2381ce230a0ea5a4ae1e2fec7f1fc5d21363b8411913b4b4d0fed03383"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.x86_64-linux-musl.tar.gz"
+    sha256 = "80893d4b5c55c9b059a772c10540d895012f003babca99cc3319b509df124bd0"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.x86_64-linux-musl.tar.gz"
 [[bacnet_stack]]
 arch = "x86_64"
-git-tree-sha1 = "8e1be85e7084c0dfb38e4e6128fee8842d14f48c"
+git-tree-sha1 = "a2b5850d1bd19e17293b246a6bf0e8bd6b701b31"
 os = "windows"
 
     [[bacnet_stack.download]]
-    sha256 = "8c9f479a22eaab565c6f73923dc2a17542a1a67fd8ea36080669872f1572a6a7"
-    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+0/bacnet_stack.v1.4.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "11ab1c83500d71e5e80776ac261f391324dd5781b1a3c5a39649dfe08cb687f1"
+    url = "https://github.com/JuliaBinaryWrappers/bacnet_stack_jll.jl/releases/download/bacnet_stack-v1.4.1+1/bacnet_stack.v1.4.1.x86_64-w64-mingw32.tar.gz"
